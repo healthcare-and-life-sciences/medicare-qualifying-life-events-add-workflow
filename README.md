@@ -14,6 +14,7 @@ This process allows a Medicare member to add his/her qualifying life event infor
 
 1. A new customer buying a policy coverage/benefits out of the OEP due to a qualifying life event. (Minor customization in the process will make the process fit for this use case)
 
+![User Workflow](MedicareQualifyingEventWorkflow.png)
 
 <h2>Business Objective</h2>
 
