@@ -57,7 +57,7 @@ Primary Industry:
 
 <h3>Install the Data Pack</h3>
 
-1. The Data Pack folder in the following GitHub repository contains one (1) DPA Data Pack. Please download the Data Pack and save them to your desktop:*[INSERT GITHUB REPO LINK]* (https://github.com/healthcare-and-life-sciences/Medicare-Qualifying-Life-Events-Add-Workflow)
+1. The Data Pack folder in the following GitHub repository contains one (1) DPA Data Pack. Please download the Data Pack and save them to your desktop: https://github.com/healthcare-and-life-sciences/Medicare-Qualifying-Life-Events-Add-Workflow
 2. Then, complete the following steps to import them into your Salesforce org.
     1. To Import, in your destination Salesforce org, Click on *App Launcher* → Search for '*OmniStudio DataPacks*' and click on it.
     2. Click on '*Installed*' and on the right side click on '*Import from*'.
