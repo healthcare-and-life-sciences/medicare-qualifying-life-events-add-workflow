@@ -69,8 +69,8 @@ Primary Industry:
 
 1. Make sure Person Accounts are enabled in the org.
 2. Grant users access to view their Person Account page.
-3. Activate the OmniScript LWC that you imported with the Data Pack above. Please refer to the following help article for more information on how to activate a FlexCard: https://docs.vlocity.com/en/Activate-a-FlexCard.html.
-4. Add the OmniScript LWC to the Person Account Lightning Page. For more information on how to add Lightning Web Components to a page, please refer to this help article: https://docs.vlocity.com/en/Add-a-FlexCard-to-a-Lightning-Page.html.
+3. Activate the OmniScript LWC that you imported with the Data Pack above. Please refer to the following help article for more information on how to activate a FlexCard: https://help.salesforce.com/s/articleView?id=sf.os_activate_a_flexcard_24808.htm&type=5&language=en_US.
+4. Add the OmniScript LWC to the Person Account Lightning Page. For more information on how to add Lightning Web Components to a page, please refer to this help article: https://help.salesforce.com/s/articleView?id=sf.os_add_a_flexcard_to_a_lightning_page_25127.htm&type=5&language=en_US.
 
 
 <h2>Assumptions</h2>
